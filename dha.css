@@ -16,7 +16,7 @@
     width: 200px;
     height: 60px;
     font-size: 23px;
-    background-color: #0000CD;
+    background-color: #4682B4;
     color: #ffffff;
     border: none;
 }
@@ -47,4 +47,15 @@
     height: 40px;
     border-radius: 18px;
     border: none;
+}
+.home, .home2{
+    font-size: 30px;
+    text-align: justify;
+    width: 1980px;
+    margin-left: 20px;
+}
+.help{
+    margin-left: 750px;
+    margin-top: 300px;
+    width: 600px;
 }
