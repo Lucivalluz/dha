@@ -30,7 +30,7 @@
     width: 200px;
     height: 60px;
     font-size: 23px;
-    background-color: #4682B4;
+    background-color: #6A5ACD;
     color: #ffffff;
     border: none;
 }
@@ -38,7 +38,7 @@
 .tarjamen {
     width: 100%;
     height: 80px;
-    background-color: #4682B4;
+    background-color: #6A5ACD;
     margin-top: 0px;
 }
 
@@ -54,6 +54,7 @@
 .men {
     margin-left: 40px;
     color: #ffffff;
+    text-decoration: none;
 }
 
 .pesq {
@@ -100,7 +101,9 @@
     margin-left: 850px;
     padding-top: 18px;
 }
-.contabilidade{
+.cont{
     width: 100%;
+    height: 160px;
     background-color: aquamarine;
+    margin-top: 100px;
 }
